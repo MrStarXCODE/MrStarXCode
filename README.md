@@ -18,8 +18,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
 </div>
 
-ite; encrypted-media; fullscreen; picture-in-picture"
-  loading="lazy"
-/>
-
-###
