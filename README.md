@@ -24,8 +24,8 @@
 
 ###
 
-<div align="center">
-  <img src="https://novatorem-indol-one.vercel.app/?" alt="Widget with the current Spotify song"  />
-</div>
+<a href="https://github.com/tthn0/Spotify-Readme">
+  <img src="https://spotify-readme-blond-zeta.vercel.app" alt="Current Spotify Song">
+</a>
 
 ###
